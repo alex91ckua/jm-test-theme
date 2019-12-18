@@ -1,4 +1,4 @@
-# jm-test-theme
+# Wordpress / Drupal interview task
 
 Test task is to add functionality to the basic theme.
 
